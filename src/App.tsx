@@ -1,7 +1,7 @@
 import React from "react";
 
-import UserList from "./components/UserList";
-import UserDetails from "./components/UserDetails";
+import UserList from "./pages/UserList";
+import UserDetails from "./pages/UserDetails";
 import { Route, Routes } from "react-router-dom";
 
 const App: React.FC = () => {
